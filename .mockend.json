@@ -1,6 +1,6 @@
 {
   "Person": {
     "name": { "string": {} },
-    "surname": { "string": {} },
+    "surname": { "string": {} }
   }
 }
