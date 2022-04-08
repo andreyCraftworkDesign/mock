@@ -1,6 +1,6 @@
 {
   "Person": {
-    "name": { "string": {} },
-    "surname": { "string": {} }
+    "name": { "regexp": "[A-Z][a-z]{5,10}" },
+    "surname": { "regexp": "[A-Z][a-z]{5,10}" }
   }
 }
