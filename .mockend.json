@@ -1,6 +1,6 @@
 {
   "Person": {
-    "name": { "regexp": "[A-Z][a-z]{5,10}" },
+    "surname": { "regexp": "[A-Z][a-z]{5,10}" },
     "surname": { "regexp": "[A-Z][a-z]{5,10}" },
     "name": { "regexp": "[A-Z][a-z]{5,10}" },
     "code": {
